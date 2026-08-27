@@ -13,7 +13,7 @@ crons = ["0 13,17,22 * * *"]
 # Paste the "id" it prints into the line below.
 [[kv_namespaces]]
 binding = "TICKETS_KV"
-id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+id = "98ce71f68f184345b555d93543d2f4d1"
 
 # Secrets (VAPID_SUBJECT, VAPID_PUBLIC_KEY, VAPID_PRIVATE_KEY) are NOT set here —
 # see README.md. They're set with `wrangler secret put` so they never end up
